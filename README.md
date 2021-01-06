@@ -1,2 +1,2 @@
-# question-answering-ai-bot
-Question Answering bot made with pretrained BERT, PruneBERT, DistilBERT and BioBERT models.
+# question-answering-bot
+ Question Answering BOT made with pretrained BERT, PruneBERT, DistilBERT, BioBERT models.
