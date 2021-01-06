@@ -1,0 +1,34 @@
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+filelock==3.0.12
+idna==2.10
+joblib==1.0.0
+numpy==1.19.4
+packaging==20.8
+pandas==1.2.0
+Pillow==8.1.0
+pyparsing==2.4.7
+PyQt5==5.15.2
+pyqt5-plugins==5.15.2.2.0.1
+PyQt5-sip==12.8.1
+pyqt5-tools==5.15.2.3
+python-dateutil==2.8.1
+python-dotenv==0.15.0
+pytz==2020.5
+qt5-applications==5.15.2.2.1
+qt5-tools==5.15.2.1.0.1
+regex==2020.11.13
+requests==2.25.1
+sacremoses==0.0.43
+sentencepiece==0.1.94
+six==1.15.0
+tokenizers==0.8.0rc4
+torch==1.7.1+cpu
+torchaudio==0.7.2
+torchvision==0.8.2+cpu
+tqdm==4.55.1
+# Editable install with no version control (transformers==3.0.0)
+-e c:\users\furka\appdata\local\programs\python\python37\lib\site-packages
+typing-extensions==3.7.4.3
+urllib3==1.26.2
