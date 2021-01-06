@@ -1,7 +1,7 @@
 # question-answering-bot
  Question Answering BOT made with pretrained BERT, PruneBERT, DistilBERT, BioBERT models.
 
-# You need to install certain versions
+### You need to install certain versions
 First of all. python cannot be newer than 3.7.6
 ```
 pip install tensorflow
@@ -9,3 +9,10 @@ pip install torch==1.7.1+cpu torchvision==0.8.2+cpu torchaudio===0.7.2 -f https:
 pip install transformers
 pip install pyqt5
 ```
+
+Than you can easily run
+```
+python main.py
+```
+
+An easy to use (but laggy) GUI will pop up in a short time. First run of each model could take a little while to load, which you can track from you terminal. 
