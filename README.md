@@ -14,7 +14,7 @@ pip install transformers==3
 pip install pyqt5
 ```
 
-Than you can easily run
+Then you can easily run
 ```
 python main.py
 ```
