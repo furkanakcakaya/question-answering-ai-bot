@@ -1,5 +1,13 @@
 # question-answering-bot
  Question Answering BOT made with pretrained BERT, PruneBERT, DistilBERT, BioBERT models.
+ 
+### Course Learning Outcomes
+- The student will know the convenience of using Natural Language in our ordinary life.
+- The student will learn the algorithms and methods on the Natural Language Processing domain.
+- The students will recognize and use the domestic and foreign tools.
+- The student will learn all the concept about Natural Language Processing.
+- The student will do a project using the learned material in the class.
+
 
 ### You need to install certain versions
 First of all. python cannot be newer than 3.7.6
